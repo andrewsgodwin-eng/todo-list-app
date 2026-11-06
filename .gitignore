@@ -1,0 +1,10 @@
+# Sensitive / Local Certificates
+cert.pfx
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
